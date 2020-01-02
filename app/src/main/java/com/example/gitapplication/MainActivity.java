@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
+    // this is first Application of fin
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
