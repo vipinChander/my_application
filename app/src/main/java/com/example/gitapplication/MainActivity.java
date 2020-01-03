@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         //test
         Toast.makeText(this, "", Toast.LENGTH_SHORT).show();
         /////
-
+// Wish from the boys
 
         String value ;
     }
